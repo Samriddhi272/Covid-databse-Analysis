@@ -47,4 +47,11 @@ It also includes **complex SQL queries, views, and triggers** to simulate real-w
 
 ---
 
-## 📂 Repository Structure  
+
+---
+
+## 🚀 How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/samriddhi272/covid-database-analysis.git
+ 
